@@ -11,6 +11,8 @@ personagem.setNome("Betinho");
 console.log(personagem.getNome());
 personagem.setDinheiro(100);
 console.log(personagem.getDinheiro());
+personagem1.setVida(30);
+console.log(personagem1.getvida());
 //crie uma classe chamada Cachorro
 //coloque atributos no cachorro
 //coloque oa atributos 'private'

@@ -14,14 +14,8 @@ console.log(personagem.getNome())
 personagem.setDinheiro(100)
 console.log(personagem.getDinheiro())
 
-
-
-
-
-
-
-
-
+personagem1.setVida(30)
+console.log(personagem1.getvida())
 
 
 
@@ -33,3 +27,7 @@ console.log(personagem.getDinheiro())
 //crie o constructor
 //crie os métodos 'getters' e os 'setters
 //crie 3 cachorros no index e chame seus métodos
+
+const cachorro1:Cachorro = new Cachorro("Rex")
+const cachorro2:Cachorro = new Cachorro("Alex")
+const cachorro3:Cachorro = New Cachorro("Bob")
